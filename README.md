@@ -65,6 +65,9 @@
 
   <a href="https://www.linkedin.com/in/aanchal-shah" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="20" />
+  </a> 
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://aanchal-shah.vercel.app" target="_blank">
   </a>
 </p>
 
