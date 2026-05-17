@@ -1,10 +1,4 @@
-# Hi there, I'm Aanchal Shah 👋
-
-### Software Engineer | Full Stack Developer
-
-📍 Bangalore, India  
-🌏 Originally from Nepal  
-💻 Full Stack Developer
+Hi, I am Aanchal Shah. I am a software engineer 
 
 ## 🛠 Tech Stack
 
