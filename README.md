@@ -57,7 +57,7 @@ Hi, I am Aanchal Shah. I am a software engineer
   </a>
   &nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.linkedin.com/in/aanchal-shah" target="_blank">
+  <a href="(https://www.linkedin.com/in/aanchalshahh/)" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="20" />
   </a> 
   &nbsp;&nbsp;&nbsp;
